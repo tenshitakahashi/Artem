@@ -1,0 +1,249 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	padding: 0;
+	margin: 0;
+	color: #fff;
+	background:	url(../img/sasuke.gif)  , no-repeat center/ contain;
+	background-color: rgba(0,0,0,.7);
+    background-blend-mode: darken;
+	background-size: 2200px;
+	letter-spacing: 0.06em;
+	text-transform: uppercase;
+}
+
+a, a:hover, a:active {
+	text-decoration: none;
+	transition: all 0.2s ease;
+	color: #fff;
+}
+
+
+.blur {
+    z-index: 99; /* изображение размыто */
+    background-image: url(image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    filter: blur(5px);
+  
+}
+
+
+
+ul, li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+.align-items-center {
+	align-items: center;
+}
+
+.justify-content-center {
+	justify-content: center
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 92%;
+	margin: 0 auto;
+	position: relative;
+	height: 100%;
+	z-index: 1;
+}
+
+.d-flex {
+	display:;
+	display:;
+	display:;
+	display:;
+	display: flex;
+}
+
+.offer,.slider {
+	width: 60%;
+	position: static;
+}
+
+.btn:hover {
+	background: #ff009c;
+	box-shadow: 0 10px 30px rgba(212, 0, 0, 0.4)
+}
+
+.btn-round {
+	font-size: 12px;
+	border: 1px solid #fff;
+	color: #fff;
+	padding: 5px 16px;
+	text-transform: uppercase;
+	border-radius: 100px;
+}
+
+.btn-round:hover {
+	background: #E73E3E;
+	color: #fff;
+	border: 1px solid #E73E3E;
+	color: #000;
+	box-shadow: 0 10px 30px rgba(212, 0, 0, 0.4)
+}
+
+.logo {
+	width: 200px;
+}
+
+.menu {
+	margin-left: 350px;
+}
+
+.menu__item {
+	margin-right: 48px;
+}
+
+.menu__item a {
+	font-weight: 332px;
+	font-size: 13px;
+}
+
+.menu__item a:hover {
+	color: #E73E3E;
+}
+
+.auth {
+	margin-left: auto;
+}
+
+.auth__info {
+	margin-left: 15px;
+}
+
+.auth__profile {
+	font-size: 8px;
+	color: #E73E3E;
+	margin-bottom: 3px;
+}
+
+.auth__name {
+	font-size: 10px;
+	margin: 0;
+}
+
+.auth__img {
+	border: 1px solid #404040;
+	border-radius: 100%;;
+	width: 50px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	top: 0;
+	align-items: center;
+	border-radius: 50px;
+	overflow: hidden;
+		overflow-y: hidden;
+		overflow-x: hidden;	
+}
+.img {
+	width: 150%
+}
+
+.header {
+	height: 10vh;
+	background: 
+}
+
+.offer__body {
+	width: 610px;
+}
+
+.content {
+	height: 80vh;
+}
+
+.offer__title {
+	font-size: 58px;
+	font-weight: 900;
+}
+
+.offer__word {
+	display: block;
+	font-size: 81px;
+	position: relative;
+}
+
+.offer__word span {
+	z-index: 2;
+	position: relative;
+}
+
+
+.offer__btns {
+	margin-top: 3vh;
+}
+
+.offer__btn {
+	margin-right: 20px;
+}
+
+.offer__cta {
+	margin-top: 4vh;
+}
+
+.box {
+ 	display: flex;
+ 	align-items: center;
+	justify-content: center;
+}
+
+}
+
+.slider {
+	background: rgba(0,0,0,0.07);
+	position: relative;
+}
+
+.d3vdrxn1n {
+	background: url(../img/logo2.png) no-repeat center center / contain;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	bottom: -5%;
+	right: 0%;
+	width: 680px;
+
+}
+
+.trash {
+	background: url(../img/trash-logo2.png) no-repeat center center / contain;
+	width: 80%;
+	height: 95%;
+	position: absolute;
+	bottom: -5%;
+	right: 0%;
+	width: 390px;
+	color: #fff;
+	transform: 2px:;
+}
+
+.nightsquad {
+	background: url(../img/nightsquad2.png) no-repeat center center / contain;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	bottom: -5%;
+	right: 0%;
+	width: 200px;
+	color: #fff;
+	transform: 2px:;
+}
+
+.nickname div {
+	font-size: 20px;
+	margin-left: 750px;
+	margin-bottom: 233px;
+}
+	
